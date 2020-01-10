@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=LifeBar
+comment1.params=
+comment1.target=LifeBar()
+comment2.params=l
+comment2.target=void\ lifeBarChange(int)
+numComments=3
